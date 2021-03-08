@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is to learn git and node ",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "Adarsh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsadarsh07/git-test.git"
+  },
+  "keywords": [
+    "\"git\""
+  ],
+  "bugs": {
+    "url": "https://github.com/arsadarsh07/git-test/issues"
+  },
+  "homepage": "https://github.com/arsadarsh07/git-test#readme"
+}
